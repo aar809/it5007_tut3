@@ -22,11 +22,14 @@
     "graphql": "^0.13.2"
   },
   "devDependencies": {
-    "@babel/cli": "^7.17.3",
+    "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.5",
     "@babel/preset-env": "^7.16.11",
     "@babel/preset-react": "^7.16.7",
     "babel-cli": "^6.26.0",
     "nodemon": "^1.19.4"
+  },
+  "bugs": {
+    "url": "https://github.com/vasansr/pro-mern-stack-2/issues"
   }
 }

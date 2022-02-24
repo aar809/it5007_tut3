@@ -166,8 +166,9 @@ function Homepage(){
     <div>
       <br/>
       <br/>
-      <center><h3>Welcome to Singapore High-Speed Intercontinental Railway's Train Ticket Booking System!</h3>
-      <h3>#1 in the World!</h3></center>
+      <center><h3>Welcome to Singapore High-Speed Intercontinental Railway's Train Ticket Booking System.</h3>
+      <br/>
+      <h3>#1 Ticket Booking System in the World!</h3></center>
     </div>
   )
 }
