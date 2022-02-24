@@ -1,5 +1,7 @@
 # IT5007 Tutorial-3: Read Me Instructions
 
+Github repo URL: https://github.com/aar809/it5007_tut3
+
 Prepared by: Aaron Lok Hin Chan (A0117352M)
 
 ## Purpose:
