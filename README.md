@@ -8,7 +8,7 @@ Prepared by: Aaron Lok Hin Chan (A0117352M)
 The Train Ticket Booking System website allows an easy way for customer-facing staff at Singapore High-Speed Intercontinental Railway to book train tickets for passengers at the front-desk or over the phone.
 
 ## Instructions:
-To execute the code, user will need to download the zip file, open the terminal to the main folder, and run the following commands:
+To execute the website, user will need to download the zip file into local docker folder, open the terminal to the main project folder, and run the following commands:
 -  `npm install`
 -  `npm install --save-dev @babel/core@7 @babel/cli@7`
 -  `node_modules/.bin/babel --version`
